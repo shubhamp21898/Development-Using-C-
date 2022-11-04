@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Fibonacci_Series
+namespace Odd_Even
 {
+    //Using the Boolean
     class Odd_Even
     {
        public Boolean Check_Even(int iVal)
