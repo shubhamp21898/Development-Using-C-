@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Fibonacci_Series
+namespace Sum_Of_Count
 {
     class Sum_Of_Count
     {
